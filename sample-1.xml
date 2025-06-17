@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<!-- BEGIN LOOP -->
+	<product>
+		<title>{Title}</title>
+		<price>{Price}</price>
+		<images>
+			<image>{Image URL}</image>
+		</images>
+	</product>
+	<!-- END LOOP -->
+</products>
